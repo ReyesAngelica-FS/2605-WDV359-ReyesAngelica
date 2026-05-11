@@ -1,6 +1,6 @@
 # Project Proposal
 
-## Project Name
+## Ala Rey Studios
 Personal Party Planner Portfolio
 
 ## Description
