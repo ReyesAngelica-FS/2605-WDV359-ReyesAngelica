@@ -70,7 +70,41 @@ Next week, I plan to begin the visual design and structure phase of Ala Rey Stud
 
 # Week 2
 
-Stay tuned, this stand up is coming soon...
+## ⚙️ Overview – What I worked on this past week
+
+This week I focused on strengthening the business case and development direction for Ala Rey Studios. I completed additional research on analytics, A/B testing, and user interaction strategies to better understand how users may engage with the website in the future.
+
+I also began the frontend development setup by initializing a React + Vite environment and organizing my project structure for upcoming UI work. Alongside development, I started building wireframes in Figma for the homepage and overall site layout to help establish the visual direction and user experience for the project.
+
+Figma Wireframe Link:  
+https://www.figma.com/design/cwn0gIF2b3jHJiCMR8ymW1/Untitled?node-id=0-1&m=dev&t=As7NdpEWCiYyEXHU-1
+
+---
+
+## 🌵 Challenges – What problems I had & how I'm addressing them
+
+One challenge this week was finding the right design direction and UI inspiration that matched the luxury and creative feel I want for Ala Rey Studios. Many templates felt too corporate or too minimal for the vision I had in mind.
+
+To help solve this, I started creating my own custom wireframes and researching modern portfolio and event-planning websites for inspiration. I also focused on organizing my development workflow better by using smaller feature branches and more frequent commits.
+
+---
+
+## 🏆 Accomplishments – What I “leveled up” on this week
+
+This week I improved my understanding of:
+- Feature branch workflow
+- React + Vite project setup
+- UI/UX planning and wireframing
+- Analytics and A/B testing concepts
+- Organizing development work through GitHub Issues, Milestones, and PRs
+
+I also successfully transitioned the project from planning into actual frontend development.
+
+---
+
+## 🔮 Next Steps – What I plan to prioritize and do next
+
+Next, I plan to continue building out the homepage UI by creating the Navbar, Hero section, Footer, and additional homepage sections. I also want to continue refining my Figma wireframes and begin applying branding styles, typography, and responsive layouts throughout the project.
 
 ---
 
