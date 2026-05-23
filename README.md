@@ -1,58 +1,16 @@
-# Project & Portfolio
+# React + Vite
 
-### Angelica Reyes
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-![Degree Program](https://img.shields.io/badge/degree-web%20development-blue.svg)
+Currently, two official plugins are available:
 
-[Log](./docs/log.md)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
----
+## React Compiler
 
-# Welcome! 🚀
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-This repository contains my ongoing research, planning, development, and documentation for Project & Portfolio IV.
+## Expanding the ESLint configuration
 
-Throughout this course, I will use Agile workflow practices, GitHub Projects, Milestones, Issues, and feature branch workflow to manage project progress and development.
-
----
-
-# Project Proposal
-
-My project is a modern portfolio-style website for a personal party planner brand. The application will showcase event themes, creative styles, services, and planning concepts using a clean and visually engaging layout inspired by professional photography portfolios.
-
-The goal of this project is to create a responsive and professional web experience while continuing to strengthen my front-end and full-stack development skills.
-
----
-
-# Planned Features
-
-- Responsive modern UI
-- Event showcase gallery
-- Services and pricing sections
-- Contact and inquiry form
-- Styled Components design system
-- GitHub Agile workflow management
-
----
-
-# Tech Stack
-
-- React
-- Styled Components
-- Node.js
-- Express
-- MongoDB
-- GitHub Projects
-
----
-
-# Workflow
-
-This repository follows feature branch workflow:
-
-- main
-- dev
-- staging
-- feature branches
-
-Development work will be merged into `dev` throughout milestones and reviewed using Pull Requests.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
