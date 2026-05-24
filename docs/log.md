@@ -110,7 +110,43 @@ Next, I plan to continue building out the homepage UI by creating the Navbar, He
 
 # Week 3
 
-Stay tuned, this stand up is coming soon...
+## ⚙️ Overview – What I worked on this past week
+
+This week I focused heavily on both frontend development and project research for Ala Rey Studios. I continued building the React front-end by creating reusable components such as the Navbar, Hero section, and Footer while also organizing the homepage structure into a cleaner component-based layout.
+
+In addition to development, I completed research related to innovation, compliance, security, SWOT analysis, and OWASP web security risks. I also researched modern portfolio and event-planning websites to better understand how professional brands structure their user experience, galleries, and client interaction systems.
+
+I continued refining my Figma wireframes and improving my GitHub workflow by using more feature branches, commits, and pull requests throughout development.
+
+<br>
+
+## 🌵 Challenges – What problems did I have & how I'm addressing them
+
+One challenge this week was balancing the creative design process with learning how to properly structure React components and maintain a professional workflow. I also found it challenging to keep my development organized while continuing research and documentation requirements at the same time.
+
+To address this, I began breaking larger tasks into smaller feature branches and commits instead of trying to complete entire sections at once. This helped me better manage my workflow and made development feel more structured and manageable.
+
+<br>
+
+## 🏆 Accomplishments – What I "leveled up" on this week
+
+This week I strengthened my understanding of:
+- React component structure and reusable UI development
+- Frontend styling and responsive layout planning
+- GitHub feature branch workflow and iterative commits
+- Security awareness and OWASP best practices
+- SWOT analysis and strategic project planning
+- Organizing research and development together within Agile workflow practices
+
+I also successfully transitioned the homepage from a simple starter template into the early stages of a custom branded experience for Ala Rey Studios.
+
+<br>
+
+## 🔮 Next Steps – What I plan to prioritize and do next
+
+Next week, I plan to continue building additional homepage sections including Services, Gallery Preview, About, and Contact CTA sections. I also want to begin implementing real imagery and branding assets into the design while continuing to improve responsive styling and overall UI consistency.
+
+In addition, I plan to continue refining project documentation, improving security planning, and maintaining a more consistent commit and pull request workflow throughout development.
 
 ---
 
