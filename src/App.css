@@ -142,3 +142,66 @@ body {
   color: #777;
   font-size: 1rem;
 }
+
+/* Footer */
+
+.footer {
+  background: #1e1e1e;
+  color: #ffffff;
+  padding: 80px 64px 40px;
+  margin-top: 100px;
+}
+
+.footer-brand h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 2rem;
+  margin-bottom: 12px;
+}
+
+.footer-brand p {
+  max-width: 500px;
+  line-height: 1.7;
+  color: #d6d6d6;
+  margin-bottom: 40px;
+}
+
+.footer-links {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.footer-links a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer-links a:hover {
+  color: #b89b72;
+}
+
+.footer-contact {
+  margin-bottom: 40px;
+  color: #d6d6d6;
+  line-height: 1.8;
+}
+
+.footer-bottom {
+  border-top: 1px solid #444;
+  padding-top: 24px;
+  font-size: 0.9rem;
+  color: #999;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    padding: 60px 24px 32px;
+  }
+
+  .footer-links {
+    flex-direction: column;
+    gap: 16px;
+  }
+}
