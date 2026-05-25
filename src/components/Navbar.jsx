@@ -12,7 +12,7 @@ function Navbar() {
                 <Link to="/">Home</Link>
                 <Link to="/about">About</Link>
                 <Link to="/services">Services</Link>
-                <a href="#gallery">Gallery</a>
+                <Link to="/gallery">Gallery</Link>
                 <a href="#contact">Contact</a>
             </nav>
 
