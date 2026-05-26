@@ -96,6 +96,16 @@ body {
   font-family: "Playfair Display", serif;
   margin-bottom: 24px;
   line-height: 1;
+
+  /* FIXED TEXT COLOR */
+  color: #1e1e1e;
+
+  /* Stronger luxury feel */
+  font-weight: 700;
+
+  /* Better spacing */
+  letter-spacing: -2px;
+
 }
 
 .hero-text {
@@ -172,6 +182,16 @@ body {
   font-family: "Playfair Display", serif;
   font-size: 2.5rem;
   margin-bottom: 48px;
+
+  /* FIXED TEXT COLOR */
+  color: #1e1e1e;
+
+  /* Stronger luxury feel */
+  font-weight: 700;
+
+  /* Better spacing */
+  letter-spacing: -2px;
+
 }
 
 .services-grid {
@@ -226,6 +246,16 @@ body {
   font-family: "Playfair Display", serif;
   font-size: 2.5rem;
   margin-bottom: 16px;
+
+  /* FIXED TEXT COLOR */
+  color: #1e1e1e;
+
+  /* Stronger luxury feel */
+  font-weight: 700;
+
+  /* Better spacing */
+  letter-spacing: -2px;
+
 }
 
 .gallery-intro {
