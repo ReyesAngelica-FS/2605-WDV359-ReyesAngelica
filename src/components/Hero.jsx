@@ -1,3 +1,6 @@
+// Creator Image
+import aboutCreatorImg from "../assets/images/AboutTheCreator.png";
+
 function Hero() {
         return (
         <section className="hero-section">
@@ -25,7 +28,11 @@ function Hero() {
             </div>
     
             <div className="hero-image">
-            Hero Image Placeholder
+                <img
+                    src={aboutCreatorImg}
+                    alt="Ala Rey Studios Event Design"
+                    className="hero-img"
+                />
             </div>
         </section>
         );
