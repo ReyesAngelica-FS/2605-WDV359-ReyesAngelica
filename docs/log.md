@@ -152,4 +152,64 @@ In addition, I plan to continue refining project documentation, improving securi
 
 # Week 4
 
+## ⚙️ Overview – What I worked on this past week
+
+This week I focused on Beta release preparation and final frontend refinement for Ala Rey Studios. I continued expanding the React application by completing dedicated pages for About, Services, Gallery, and Contact while also improving navigation using React Router.
+
+In addition to development, I refined the homepage layout by improving typography, spacing, gallery organization, and overall UI consistency. I also restructured parts of the project to improve readability through reusable components, inline comments, cleaner styling organization, and additional documentation updates.
+
+This week also included completing final research related to clean code practices, Beta staging, README development, formatting tools, and long-term project maintainability. I continued improving my GitHub workflow by managing feature branch merges, pull requests, issues, milestones, and staging updates more consistently throughout development.
+
+<br>
+
+## 🌵 Challenges – What problems did I have & how I'm addressing them
+
+One challenge this week was balancing final UI polish while also addressing project management feedback and documentation improvements. As the project became larger, it became more important to keep both the frontend code and GitHub workflow organized.
+
+Another challenge involved improving overall planning visibility through issues, milestones, and project management updates. To address this, I created more detailed GitHub issues related to development, cleanup, responsive design, documentation, and Beta testing tasks so future work is easier to track and manage.
+
+I also spent time refining typography contrast, page layouts, and responsive structure to create a more professional and polished user experience throughout the site.
+
+<br>
+
+## 🏆 Accomplishments – What I "leveled up" on this week
+
+This week I strengthened my understanding of:
+
+* React Router navigation and multi-page React applications
+* Beta release preparation and staging workflow
+* UI/UX refinement and responsive cleanup
+* Clean code organization and reusable component structure
+* GitHub issue planning and milestone management
+* Professional project documentation practices
+* Typography, layout refinement, and visual consistency
+
+I also successfully transformed Ala Rey Studios into a more complete multi-page frontend experience with improved navigation, dedicated page layouts, and stronger branding consistency.
+
+<br>
+
+## 📌 Project Status Update
+
+Ala Rey Studios is currently in the Beta refinement stage. Core pages and navigation are complete, and the project is now focused on UI polish, responsive improvements, testing, documentation, and final workflow cleanup.
+
+Remaining work includes:
+
+* Final responsive adjustments
+* Gallery image refinement
+* README improvements
+* Additional accessibility and UI cleanup
+* Final testing and review
+* Future backend planning considerations
+
+At this stage, the project is approximately 85–90% complete.
+
+<br>
+
+## 🔮 Next Steps – What I plan to prioritize and do next
+
+Next, I plan to continue refining the overall user experience by improving responsive layouts, final typography adjustments, and additional gallery presentation improvements. I also plan to finalize the README documentation and continue organizing GitHub issues, milestones, and project management updates to better reflect ongoing work and future development goals.
+
+In the future, I would also like to explore integrating a backend system or CMS functionality for managing inquiries, event albums, testimonials, and additional dynamic content.
+
+
 My final stand up...
