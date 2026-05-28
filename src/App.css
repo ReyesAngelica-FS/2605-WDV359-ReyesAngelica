@@ -343,6 +343,16 @@ body {
   font-size: 3rem;
   margin-bottom: 24px;
   line-height: 1.1;
+
+  /* FIXED TEXT COLOR */
+  color: #1e1e1e;
+
+  /* Stronger luxury feel */
+  font-weight: 700;
+
+  /* Better spacing */
+  letter-spacing: -2px;
+
 }
 
 .about-content p {

@@ -29,6 +29,8 @@ function ContactPage() {
                 <option>Wedding</option>
                 <option>Birthday</option>
                 <option>Baby Shower</option>
+                <option>Graduation</option>
+                <option>School Function</option>
                 <option>Private Event</option>
                 <option>Corporate Event</option>
                 </select>
@@ -91,6 +93,15 @@ const styles = {
         fontFamily: "Playfair Display, serif",
         fontSize: "4rem",
         marginBottom: "20px",
+
+        // FIXED TEXT COLOR
+        color: "#1e1e1e",
+
+        // Stronger luxury feel
+        fontWeight: "700",
+
+        // Better spacing
+        letterSpacing: "-2px",
     },
 
     heroText: {
@@ -156,6 +167,16 @@ const styles = {
         fontFamily: "Playfair Display, serif",
         fontSize: "3rem",
         marginBottom: "24px",
+
+        // FIXED TEXT COLOR
+        color: "#1e1e1e",
+
+        // Stronger luxury feel
+        fontWeight: "700",
+
+        // Better spacing
+        letterSpacing: "-2px",        
+
     },
 
     infoText: {

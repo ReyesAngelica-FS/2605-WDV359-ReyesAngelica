@@ -120,6 +120,16 @@ const styles = {
         fontFamily: "Playfair Display, serif",
         fontSize: "4rem",
         marginBottom: "20px",
+
+            // FIXED TEXT COLOR
+        color: "#1e1e1e",
+
+        // Stronger luxury feel
+        fontWeight: "700",
+
+        // Better spacing
+        letterSpacing: "-2px",
+
     },
 
     heroText: {
@@ -152,6 +162,15 @@ const styles = {
         fontFamily: "Playfair Display, serif",
         fontSize: "1.8rem",
         marginBottom: "16px",
+
+            // FIXED TEXT COLOR
+        color: "#1e1e1e",
+
+        // Stronger luxury feel
+        fontWeight: "700",
+
+        // Better spacing
+        letterSpacing: "-2px",
     },
 
     cardDescription: {
@@ -176,6 +195,16 @@ const styles = {
         fontFamily: "Playfair Display, serif",
         fontSize: "3rem",
         marginBottom: "48px",
+
+        // FIXED TEXT COLOR
+        color: "#1e1e1e",
+
+        // Stronger luxury feel
+        fontWeight: "700",
+
+        // Better spacing
+        letterSpacing: "-2px",
+
     },
 
     processGrid: {
