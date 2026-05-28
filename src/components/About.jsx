@@ -1,8 +1,16 @@
+import CreatorAtWork from "../assets/images/CreatorAtWork.png";
+
 function About() {
         return (
             <section id="about" className="about-section">
                 <div className="about-image">
-                <span>About Image Placeholder</span>
+                <div className="about-image">
+                    <img
+                        src={CreatorAtWork}
+                        alt="Ala Rey Studios Creator"
+                        className="about-photo"
+                    />
+                </div>
                 </div>
         
                 <div className="about-content">
