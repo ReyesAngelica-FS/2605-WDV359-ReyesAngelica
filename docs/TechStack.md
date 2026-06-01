@@ -13,28 +13,34 @@
 - Inline component styling for individual pages
 - Responsive design with media queries
 - Custom typography and color palette
+- React Icons for social media icons
 
-## Content Management / Future CMS
-- WordPress planned for future content management
-- WordPress may be used for galleries, service content, blog/inspiration posts, and inquiry management
-
-## Data Handling
-At this stage, Ala Rey Studios is primarily a static frontend prototype. Data is currently handled through reusable arrays inside React components for items such as:
+## Current Data Handling
+At this Beta stage, Ala Rey Studios is primarily a front-end prototype. Data is currently handled through reusable arrays inside React components for:
 - Services
 - Gallery albums
 - Event categories
 - Page content
 
-Future data may include:
-- Contact form submissions
-- Client inquiry details
-- Event album information
-- Service package details
-- Testimonials
+## Back-End Architecture & Future Development
+The original long-term project architecture for Ala Rey Studios includes:
+- Node.js
+- Express
+- MongoDB
 
-## Future Back-End Considerations
-- Node.js and Express may be used later if custom API functionality is needed
-- MongoDB may be used later to store inquiry forms, gallery data, service details, or client-related information
+During this Beta release milestone, development focused primarily on front-end implementation, responsive UI design, reusable React components, and overall user experience refinement.
+
+Future development plans include:
+- Inquiry form functionality
+- Client booking management
+- Database-driven gallery content
+- Dynamic service management
+- Administrative dashboard functionality
+- MongoDB data storage integration
+
+## Content Management / Future CMS
+- WordPress may be explored later for content management
+- WordPress could support galleries, service content, blog/inspiration posts, and inquiry management
 
 ## Workflow & Management
 - GitHub Projects
